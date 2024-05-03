@@ -40,7 +40,7 @@ This repository contains code for performing K-Means clustering on an RGB image 
 
 ## Parameters
 
-You can adjust the number of clusters (`k`) by modifying the `k_values` list in the script. By default, the script will perform K-Means clustering for `k = [2, 5, 10, 20, 50]`.
+You can adjust the number of clusters `(k)` by modifying the `k_values` list in the script. By default, the script will perform K-Means clustering for `k = [2, 5, 10, 20, 50]`.
 
 ## Results
 
