@@ -10,6 +10,9 @@ This repository contains code for performing K-Means clustering on an RGB image 
 
 ## Installation
 
+
+
+
 1. Clone the repository:
 
     ```bash
@@ -29,6 +32,10 @@ This repository contains code for performing K-Means clustering on an RGB image 
     main.py
     ```
 
+
+
+    
+
 4. The segmented images will be saved in the `results` directory.
 
 ## Parameters
@@ -39,6 +46,8 @@ You can adjust the number of clusters (`k`) by modifying the `k_values` list in 
 
 - The results of the segmentation will be saved in the `results` directory. Each segmented image will be named according to the number of clusters used.
 - Plot for K vs MSE also saved in the `results` directory
+
+
 
 
 
